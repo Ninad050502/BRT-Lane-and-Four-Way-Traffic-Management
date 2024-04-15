@@ -1,5 +1,0 @@
-train: D:/Python files req for Btech/BRT_Dataset/train/images
-val: D:/Python files req for Btech/BRT_Dataset/valid/images
-
-nc: 4
-names: ['Bus', 'Car', 'Bike', 'Auto']
