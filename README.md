@@ -1,0 +1,1 @@
+This is a project involving utilizing Computer Vision and Machine Learning concepts to build a model which detects drivers not obeying rules which are not yet monitored like WrongLane driving,SeatBelt enforcement,Bus-Rapid-Transit Driving,etc 
